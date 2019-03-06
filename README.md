@@ -1,2 +1,2 @@
-# teste_empresa_nuvem_shop
-Exercícios, testes e projetos realizados durante o processos de seleção para a empresa Nuvem Shop
+# testes_empresas
+Código fonte de testes realizados para empresas em processos de seleção
